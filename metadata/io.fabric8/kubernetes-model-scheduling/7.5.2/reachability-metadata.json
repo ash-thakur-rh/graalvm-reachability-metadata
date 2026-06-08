@@ -1,1 +1,51 @@
-{ }
+{
+  "reflection" : [ {
+    "condition" : {
+      "typeReached" : "io.fabric8.kubernetes.api.model.scheduling.v1.PriorityClass"
+    },
+    "type" : "io.fabric8.kubernetes.api.model.scheduling.v1.PriorityClass",
+    "allDeclaredConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allDeclaredFields" : true
+  }, {
+    "condition" : {
+      "typeReached" : "io.fabric8.kubernetes.api.model.scheduling.v1.PriorityClassList"
+    },
+    "type" : "io.fabric8.kubernetes.api.model.scheduling.v1.PriorityClassList",
+    "allDeclaredConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allDeclaredFields" : true
+  }, {
+    "condition" : {
+      "typeReached" : "io.fabric8.kubernetes.api.model.scheduling.v1alpha1.PriorityClass"
+    },
+    "type" : "io.fabric8.kubernetes.api.model.scheduling.v1alpha1.PriorityClass",
+    "allDeclaredConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allDeclaredFields" : true
+  }, {
+    "condition" : {
+      "typeReached" : "io.fabric8.kubernetes.api.model.scheduling.v1alpha1.PriorityClassList"
+    },
+    "type" : "io.fabric8.kubernetes.api.model.scheduling.v1alpha1.PriorityClassList",
+    "allDeclaredConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allDeclaredFields" : true
+  }, {
+    "condition" : {
+      "typeReached" : "io.fabric8.kubernetes.api.model.scheduling.v1beta1.PriorityClass"
+    },
+    "type" : "io.fabric8.kubernetes.api.model.scheduling.v1beta1.PriorityClass",
+    "allDeclaredConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allDeclaredFields" : true
+  }, {
+    "condition" : {
+      "typeReached" : "io.fabric8.kubernetes.api.model.scheduling.v1beta1.PriorityClassList"
+    },
+    "type" : "io.fabric8.kubernetes.api.model.scheduling.v1beta1.PriorityClassList",
+    "allDeclaredConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allDeclaredFields" : true
+  } ]
+}
